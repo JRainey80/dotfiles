@@ -12,7 +12,7 @@ link_dot_fil() {
 dotfiles=("bashrc""vimrc")
 
 for file in "${dotfiles[@]}"; do
-	link_dot_file "HOME/dofiles/$file" 
+	link_dot_file "HOME/dotfiles/$file" 
 done
 
 ln -sf ~/dotfiles/starship.toml ~/.config/starship.toml

@@ -2,7 +2,7 @@
 
 # Description: Links dotfiles to home directory
 
-link_dot_fil() {
+link_dot_file() {
 	local src="$1"
 	local dest="$2"
 	ln -sf "$src" "$dest"

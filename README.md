@@ -1,1 +1,1 @@
-A super useful dotfiles script that is useful when setting up a new machine. My prompt configuration is portable with this and it's been very handy. 
+A super useful dotfiles script that sets up a new machine with my custom prompt configuration by creating the necessary simlinks. It's been very handy. 
